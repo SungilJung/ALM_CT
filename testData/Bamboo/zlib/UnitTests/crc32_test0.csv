@@ -1,0 +1,10 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:crc32_test0,""
+,<input>,buf_mem[0],crc,len,<expect>,returnVar,<output>,returnVar
+1,"","2","2","1",,,,
+2,"","8","9","4294967295",,,,
+3,"","0","1","7",,,,
+4,"","255","8","0",,,,
+5,"","1","7","9",,,,
+6,"","9","0","8",,,,
+7,"","7","4294967295","2",,,,

@@ -1,0 +1,11 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:bi_windup_test0,""
+,<input>,s_mem[0].bi_buf,s_mem[0].bi_valid,<expect>,<output>
+1,"","1","0",,
+2,"","0","-2147483648",,
+3,"","65535","2147483647",,
+4,"","7","7",,
+5,"","0","9",,
+6,"","9","8",,
+7,"","1","-1",,
+8,"","8","1",,

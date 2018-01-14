@@ -1,0 +1,15 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:gzflush_test0,""
+,<input>,flush,<expect>,returnVar,<output>,returnVar
+1,"","31154",,,,
+2,"","-2147483648",,,,
+3,"","31153",,,,
+4,"","2147483647",,,,
+5,"","0",,,,
+6,"","3",,,,
+7,"","-2",,,,
+8,"","31152",,,,
+9,"","-1",,,,
+10,"","4",,,,
+11,"","5",,,,
+12,"","1",,,,

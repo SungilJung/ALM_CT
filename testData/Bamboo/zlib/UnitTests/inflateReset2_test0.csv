@@ -1,0 +1,17 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:inflateReset2_test0,""
+,<input>,windowBits,<expect>,returnVar,<output>,returnVar
+1,"","14",,,,
+2,"","-1",,,,
+3,"","9",,,,
+4,"","-2147483648",,,,
+5,"","49",,,,
+6,"","15",,,,
+7,"","48",,,,
+8,"","7",,,,
+9,"","0",,,,
+10,"","2147483647",,,,
+11,"","8",,,,
+12,"","16",,,,
+13,"","47",,,,
+14,"","1",,,,

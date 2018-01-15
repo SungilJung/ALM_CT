@@ -1,0 +1,9 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:inflateResetKeep_test0,""
+,1,2,3
+<input>,"","",""
+strm_mem[0].total_out,"0","1","4294967295"
+<expect>
+returnVar,"","",""
+<output>
+returnVar,"-2","-2","-2"

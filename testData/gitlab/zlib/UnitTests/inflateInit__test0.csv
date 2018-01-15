@@ -1,0 +1,10 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:inflateInit__test0,""
+,1,2,3,4,5
+<input>,"","","","",""
+stream_size,"-1","2147483647","-2147483648","1","0"
+version," "," "," "," "," "
+<expect>
+returnVar,"","","","",""
+<output>
+returnVar,"-6","-6","-6","-6","-6"

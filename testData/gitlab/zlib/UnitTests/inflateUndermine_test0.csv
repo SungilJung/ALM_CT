@@ -1,0 +1,9 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:inflateUndermine_test0,""
+,1,2,3,4,5
+<input>,"","","","",""
+subvert,"1","2147483647","-2147483648","0","-1"
+<expect>
+returnVar,"","","","",""
+<output>
+returnVar,"-2","-2","-2","-2","-2"

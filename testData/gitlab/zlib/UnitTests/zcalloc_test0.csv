@@ -1,8 +1,0 @@
-CodeScroll Unit Tester(Controller Tester) Test Data
-test name:zcalloc_test0,""
-,1,2,3
-<input>,"","",""
-items,"4294967295","1","0"
-size,"1","4294967295","0"
-<expect>
-<output>
